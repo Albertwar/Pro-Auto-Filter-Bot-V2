@@ -48,7 +48,7 @@ python3 -m bot
 <img src="https://telegra.ph/file/0df7579a47affa0d8f89f.jpg" width="100" height="100"><br>
 <img src="https://badgen.net/badge/Name/Albert Einstein/FF33FF?icon=awesome&labelColor=0080FF"></a>
 <img src="https://badgen.net/badge/Skills/Bot Exp/purple?icon=terminal&labelColor=red"></a>
-<a href="https://telegram.dog/AlbertEinsteinv5"><img src="https://img.shields.io/badge/Telegram-Link-blue.svg?logo=telegram"></a>
+<a href="https://telegram.dog/Albert_Einstein_v5"><img src="https://img.shields.io/badge/Telegram-Link-blue.svg?logo=telegram"></a>
 <a href="https://github.com/Albertwar"><img src="https://badgen.net/badge/Follow%20on%20/Github/80FF00?icon=github&labelColor=black"></a>
 <a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"><img src="https://img.shields.io/badge/Yᴏᴜᴛᴜʙᴇ-Cʜᴀɴɴᴇʟ-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
 <p align="left">
@@ -56,8 +56,8 @@ python3 -m bot
                                                                                                              
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/yellow?icon=github)](https://github.com/Albertwar/Adv-Auto-Filter-Bot-V2)
 [![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20Me-Anything-1abc9c.svg)](https://telegram.dog/AlbertEinstein_TG)
-[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/AlbertEinsteinv5)
-[![Join Channel !](https://badgen.net/badge/🔊%20Join%20/Channel/Black)](https://telegram.dog/CrazyBotsz)
+[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/Albert_Einstein_v5)
+[![Join Channel !](https://badgen.net/badge/🔊%20Join%20/Channel/Black)](https://t.me/Tamil_mv_movies1)
 
  - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
  - Thnaks To Watching [Editing](https://t.me/Tamil_mv_movies1)
@@ -80,7 +80,7 @@ python3 -m bot
 <p align="left">
 </p>                                                           
                                                     
-[![Open Source? Yes!](https://badgen.net/badge/Oᴘᴇɴ%20Sᴏᴜʀᴄᴇ%20%3F/Yᴇs/yellow?icon=github)](https://github.com/Albertwarwar/Pro-Auto-Filter-Bot-V2)
+[![Open Source? Yes!](https://badgen.net/badge/Oᴘᴇɴ%20Sᴏᴜʀᴄᴇ%20%3F/Yᴇs/yellow?icon=github)](https://github.com/Albertwar/Pro-Auto-Filter-Bot-V2)
 [![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20Me-Anything-1abc9c.svg)](https://telegram.dog/Mrk_Yt)
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/mrk_yt)
 [![Join Channel !](https://badgen.net/badge/🔊%20Join%20/Channel/Black)](https://t.me/Tamil_mv_movies1)
